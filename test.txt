@@ -1,0 +1,52 @@
+module tb_data_types_demo;
+    reg [3:0] a;
+    reg [3:0] b;
+    reg clk;
+    wire [4:0] sum;
+    wire overflow;
+
+    data_types_demo uut (
+        .a(a),
+        .b(b),
+        .clk(clk),
+        .sum(sum),
+        .overflow(overflow)
+    );
+
+    initial begin
+        clk = 0;
+        forever #5 clk = ~clk; // Toggle clock every 5 time units
+    end
+
+    initial begin
+        $monitor("Time = %0t, a = %b, b = %b, sum = %b, overflow = %b", $time, a, b, sum, overflow);
+        $dumpfile("dump.vcd");
+        $dumpvars(1);
+
+        a = 4'b0011; b = 4'b0101; // Test case 1: a = 3, b = 5
+        #10;
+
+        a = 4'b1001; b = 4'b0110; // Test case 2: a = 9, b = 6
+        #10;
+
+        a = 4'b1111; b = 4'b1111; // Test case 3: a = 15, b = 15
+        #10;
+
+        $finish;
+    end
+endmodule
+//testbench
+module halfadder(input a,b,output s,c);//declaration of i/p and o/p
+  assign s=a^b;//xor operation of binary addition
+  assign c=a&b;//and to get the carry
+    //data flow modelling
+    /*behaviour modelling
+    reg s,c;
+    always @(*)
+    begin
+    s=a^b
+    c=a&b
+    end
+    
+    */
+    endmodule

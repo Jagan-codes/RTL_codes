@@ -1,0 +1,19 @@
+day1:"basic 2:1 mux"
+day2:"logical gates"
+day3:"datatyes"(two types of datatypes *net type *re datatype)
+day4:"verilog operators"
+day5:"modules and ports"(implements by 4_1 mux)
+day6:"gate modeling"(by using logical gates)
+day7:"dataflow modeling" (using assign statement implement by gray to binary code by xor)
+day8:"behviour modeling "(using always block implemented by counter(8bit))
+day9:"traffic light"(it works based fsm(states) default state is red )
+day10:"digital clock"(the clock upto 15 then resets to 0)
+day11:"jk-flipflop(edge)"(overcome the condition of j=1 k=1 it toggles the previous output q )
+day12:"sr-latch(level)"(set-when s=1 reset when r=1 depends on (s,r) not the clk(while flipflops depends on clk (edge)))
+day13:"up-counter"(by counting (increasing the count by 1 count+=1 initialising count=0000 by reset))
+day14:"down-counter"(by counting(decresing by 1 count-=1 initialising count=1111 by reset))
+day15:"shift register"(shifts by right or left )
+day16:"carry-look-ahead-adder"(overcome the problem of propagation delay in ripple carry adder by generate and propagation signal g=a&b p=a^b )
+day17:"4-bitadder-subtractor"(based on the crtl signal if crtl?add:sub(2's complement will be done by xor operation))
+day18:"comparator"(compare two inputs and produce the ouput (a>b)(a<b)(a==b))
+day19:"Demux 4:1"(4 inputs 1 output base selection line sel[1:0] (2 bits))

@@ -1,6 +1,6 @@
 //design
 module S_R_latch(input s,r,output reg q,qn);
-  always@(*)
+  always@(s,r)
     begin
     	if(s&&~r)
           begin

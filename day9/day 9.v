@@ -30,6 +30,6 @@ module Traffic_light(input clk,reset,output reg [2:0] light);
   always@(state)
     begin
       light=state;
-    end;
+    end
 endmodule
   

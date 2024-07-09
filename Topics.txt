@@ -18,3 +18,7 @@ day17:"4-bitadder-subtractor"(based on the crtl signal if crtl?add:sub(2's compl
 day18:"comparator"(compare two inputs and produce the ouput (a>b)(a<b)(a==b))
 day19:"Demux 4:1"(4 inputs 1 output base selection line sel[1:0] (2 bits))
 day20:"gray to binary code" 
+day21:"ripple_carry_adder"(output of the 1st will be the cin of the next inputs)
+day22:"full adder"
+day23:"full subtractor"
+day24:"binary encoder"2^n input n output "(difference between encoder and  mux is there will be selection line here there is not like that. )

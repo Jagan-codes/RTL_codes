@@ -23,3 +23,5 @@ day22:"full adder"
 day23:"full subtractor"
 day24:"binary encoder"2^n input n output "(difference between encoder and  mux is there will be selection line here there is not like that. )
 day25:"priority encoder"(to overcome the drwback of binary encoder where in encoder the o/p is invalid when 2 i/p is set as high here it will prioritize that which is to be)
+day26:"decoder"(n input 2^n output)
+day27:"universal shift register"()

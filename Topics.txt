@@ -26,4 +26,5 @@ day25:"priority encoder"(to overcome the drwback of binary encoder where in enco
 day26:"decoder"(n input 2^n output)
 day27:"universal shift register"(it can be used as pipo,sipo,siso,piso)
 day28:"LFSR"(it takes any of the 2 binary bits and done xor operation sequentially as per our requirements)
-day29:"MULTIPLIER"(it gives partial multiplied value)
+day29:"MULTIPLIER"(it gives partial multiplied value
+)

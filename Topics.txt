@@ -29,3 +29,4 @@ day28:"LFSR"(it takes any of the 2 binary bits and done xor operation sequential
 day29:"MULTIPLIER"(it gives partial multiplied value
 )
 day30:"clock_divider"
+day31:"carry select adder"(this adder is used to spped up the addition process and multiple cin will performed in parallel form)

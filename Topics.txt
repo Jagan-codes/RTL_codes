@@ -3,7 +3,7 @@ day2:"logical gates"
 day3:"datatyes"(two types of datatypes *net type *re datatype)
 day4:"verilog operators"
 day5:"modules and ports"(implements by 4_1 mux)
-day6:"gate modeling"(by using logical gates)
+day6:"gate modeling"(by using logical gates(structural modeling))
 day7:"dataflow modeling" (using assign statement implement by gray to binary code by xor)
 day8:"behviour modeling "(using always block implemented by counter(8bit))
 day9:"traffic light"(it works based fsm(states) default state is red )
@@ -30,3 +30,4 @@ day29:"MULTIPLIER"(it gives partial multiplied value
 )
 day30:"clock_divider"
 day31:"carry select adder"(this adder is used to spped up the addition process and multiple cin will performed in parallel form)
+day32:"binary to one hot encoder"(this type of encoder sets only one bt has high)

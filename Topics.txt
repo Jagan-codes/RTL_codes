@@ -33,3 +33,4 @@ day31:"carry select adder"(this adder is used to spped up the addition process a
 day32:"binary to one hot encoder"(this type of encoder sets only one bt has high)
 day33:"n_bit_comparator"(it compares n bit data )
 day34:"barrel_shifter"(that shift dataword for a specific no of bits)
+day35:"d_latch using 2:1 mux"

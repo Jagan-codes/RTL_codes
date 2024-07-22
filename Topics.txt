@@ -34,3 +34,5 @@ day32:"binary to one hot encoder"(this type of encoder sets only one bt has high
 day33:"n_bit_comparator"(it compares n bit data )
 day34:"barrel_shifter"(that shift dataword for a specific no of bits)
 day35:"d_latch using 2:1 mux"
+day36:"universal binary counter" (it up count,down count and load specific values based on the control input)
+day37:"parallel in parallel out sift register"(it shifts parallely)

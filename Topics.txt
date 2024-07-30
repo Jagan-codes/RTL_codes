@@ -43,3 +43,4 @@ day41:"ring counter"(this counter is like a shift register typically the output 
 day42:"majority detector"(it outputs 1 if the majority of the inputs are 1. it is used to voting system,decision making process)
 day43:"minority detector"(the outputs are 1 when the minority of the inputs are 1)
 day44:"Johnson Counter"(the complement output of the last flipflop is given as a input to the new flipflop (it is also called Twisted ring counter))
+day45:"serial adder"(it adds bit by bit of two binary numbers processing 1 bit at a time)

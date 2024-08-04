@@ -46,3 +46,6 @@ day44:"Johnson Counter"(the complement output of the last flipflop is given as a
 day45:"serial adder"(it adds bit by bit of two binary numbers processing 1 bit at a time)
 day46:"SEQUENCE GENERATOR"(it generate a sequence)
 day47:"clock buffer"(it distributes clock signal to diffrent parts of digitalsystem)
+day48:"simple register"(it is used to store and transfer the data)
+day49:"7 segment display"(it is generally used to display decimal digits in digital systems )
+day50:"array multiplier"(it is used to multiply two binary numbers)

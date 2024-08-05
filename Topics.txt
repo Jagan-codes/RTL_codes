@@ -49,3 +49,4 @@ day47:"clock buffer"(it distributes clock signal to diffrent parts of digitalsys
 day48:"simple register"(it is used to store and transfer the data)
 day49:"7 segment display"(it is generally used to display decimal digits in digital systems )
 day50:"array multiplier"(it is used to multiply two binary numbers)
+day51:"booth multiplier"(Booth's algorithm can handle both positive and negative numbers efficiently.)

@@ -53,3 +53,4 @@ day51:"booth multiplier"(Booth's algorithm can handle both positive and negative
 day52:"wallace_tree_multipler"(it is also used for multiplying two binary number and it is very efficient than other )
 day53:"restoring division algorithm"(it is used to divide two binary numbers and  It involves a sequence of shift and subtract operations to compute the quotient and remainder)
 day54:"GCD"(determining GCD using behaviour model and euclid's algorithm)
+day55:"single port ram "(it is used to write a data in a required address in a ram and read a data in a required address)

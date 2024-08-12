@@ -55,3 +55,5 @@ day53:"restoring division algorithm"(it is used to divide two binary numbers and
 day54:"GCD"(determining GCD using behaviour model and euclid's algorithm)
 day55:"single port ram "(it is used to write a data in a required address in a ram and read a data in a required address)
 day56:"round_orbit_arbitor"(A round-robin arbiter is a type of digital circuit used to allocate access to a shared resource among multiple requesters in a cyclic order.)
+day57:"CN-change-nochange flipflop"(The CN Flip-Flop is a unique type of flip-flop that allows the output to either change its state or remain unchanged based on the control input)
+day58:"fixed_priority_arbitor"( In a fixed priority arbiter, each request has a predetermined priority level that does not change over time)

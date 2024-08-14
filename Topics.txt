@@ -58,3 +58,4 @@ day56:"round_orbit_arbitor"(A round-robin arbiter is a type of digital circuit u
 day57:"CN-change-nochange flipflop"(The CN Flip-Flop is a unique type of flip-flop that allows the output to either change its state or remain unchanged based on the control input)
 day58:"fixed_priority_arbitor"( In a fixed priority arbiter, each request has a predetermined priority level that does not change over time)
 day59:"dynamic priority arbitor"(Unlike fixed priority arbiters, where the priority is predetermined, a dynamic priority arbiter can adjust the priority based on certain conditions)
+day60:"dual port ram"(Dual-port RAM allows simultaneous read and write operations on two different memory addresses, making it highly efficient for parallel processing applications)

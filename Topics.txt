@@ -59,3 +59,4 @@ day57:"CN-change-nochange flipflop"(The CN Flip-Flop is a unique type of flip-fl
 day58:"fixed_priority_arbitor"( In a fixed priority arbiter, each request has a predetermined priority level that does not change over time)
 day59:"dynamic priority arbitor"(Unlike fixed priority arbiters, where the priority is predetermined, a dynamic priority arbiter can adjust the priority based on certain conditions)
 day60:"dual port ram"(Dual-port RAM allows simultaneous read and write operations on two different memory addresses, making it highly efficient for parallel processing applications)
+day61:"7 segment display using rom "(By using a ROM, I mapped each input value to the corresponding segment outputs that create the desired digit on the display)

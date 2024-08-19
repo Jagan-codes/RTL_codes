@@ -63,3 +63,4 @@ day61:"7 segment display using rom "(By using a ROM, I mapped each input value t
 day62:"dram using fsm"(It is characterized by its ability to store each bit of data in a separate capacitor within an integrated circuit)
 day63:"carry skip adder"(The carry skip adder efficiently handles the addition of 4-bit binary numbers by using a parallel adder and an XOR-based skip mechanism)
 day64:"bcd to binary"(it is used to coonvert bcd to binary)
+day65:"dual_edge_triggering"(it is able change the output botj on falling and leading edge clk)

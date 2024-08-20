@@ -64,3 +64,4 @@ day62:"dram using fsm"(It is characterized by its ability to store each bit of d
 day63:"carry skip adder"(The carry skip adder efficiently handles the addition of 4-bit binary numbers by using a parallel adder and an XOR-based skip mechanism)
 day64:"bcd to binary"(it is used to coonvert bcd to binary)
 day65:"dual_edge_triggering"(it is able change the output botj on falling and leading edge clk)
+day66:"covnvert bcd to bnary"("it is used to convert the bcd to binary representation)

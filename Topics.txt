@@ -67,3 +67,4 @@ day65:"dual_edge_triggering"(it is able change the output botj on falling and le
 day66:"convert bcd to binary"("it is used to convert the bcd to binary representation)
 day67:"convert bcd toexcee 3 converter"( Each digit of a decimal number is represented by its corresponding 4-bit binary equivalent, incremented by 3)
 day68:"check the number is even or odd"
+day69:"clock phasing"(it is used to represent the different clock pahses 90',0',180',270');

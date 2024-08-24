@@ -68,3 +68,4 @@ day66:"convert bcd to binary"("it is used to convert the bcd to binary represent
 day67:"convert bcd toexcee 3 converter"( Each digit of a decimal number is represented by its corresponding 4-bit binary equivalent, incremented by 3)
 day68:"check the number is even or odd"
 day69:"clock phasing"(it is used to represent the different clock pahses 90',0',180',270');
+day70:"synchronous fifo"(it works sequentially diffrent from dual port . in dual port we specify in which location we are going to write and vicde versa but here user not allowed to customize the data addr it is for temporary memory)

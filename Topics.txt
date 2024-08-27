@@ -71,3 +71,4 @@ day69:"clock phasing"(it is used to represent the different clock pahses 90',0',
 day70:"synchronous fifo"(it works sequentially diffrent from dual port . in dual port we specify in which location we are going to write and vicde versa but here user not allowed to customize the data addr it is for temporary memory)
 day71:"synchronous lifo"
 day72:"is_prime"(to check number is a prime)
+day73:"is palindrime"(to check a number is a palindrome or not )

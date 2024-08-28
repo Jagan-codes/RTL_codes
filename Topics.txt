@@ -72,3 +72,4 @@ day70:"synchronous fifo"(it works sequentially diffrent from dual port . in dual
 day71:"synchronous lifo"
 day72:"is_prime"(to check number is a prime)
 day73:"is palindrime"(to check a number is a palindrome or not )
+day74:"check armstrong"(to check the given number is armstrong or not)

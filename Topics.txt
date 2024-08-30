@@ -73,3 +73,5 @@ day71:"synchronous lifo"
 day72:"is_prime"(to check number is a prime)
 day73:"is palindrime"(to check a number is a palindrome or not )
 day74:"check armstrong"(to check the given number is armstrong or not)
+day75:"clock edge detector"(to detect positive edge or negetive edge or dual edge)
+day76:"hot fsm"

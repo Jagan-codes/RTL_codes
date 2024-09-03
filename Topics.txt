@@ -77,5 +77,5 @@ day75:"clock edge detector"(to detect positive edge or negetive edge or dual edg
 day76:"hot fsm"
 day77:"elevator fsm"(working of elevator using verilog)
 day78:"vending machine fsm"(working of vending machine)
-day79:"sequence detector 1100"(non overlapping sequence detector 110 using verilog (MOORE))
-
+day79:"sequence detector 1100"(non overlapping sequence detector 1100 using verilog (MOORE))
+day80:"sequence detector 0101"(overlapping sequnce detector 0101 using verilog (MOORE))

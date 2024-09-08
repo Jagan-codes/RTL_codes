@@ -81,3 +81,7 @@ day79:"sequence detector 1100"(non overlapping sequence detector 1100 using veri
 day80:"sequence detector 0101"(overlapping sequnce detector 0101 using verilog (MOORE))
 day81:"sequence detector 1011"(non overlapping sequence detector (MEALY) using verilog)
 day82:"sequence detector 0010"(overlapping sequence detector (MEALY) using verilog)
+day83:"gray counter"
+day84:"two sequence detector"
+day 85:"digital watch  fsm"
+

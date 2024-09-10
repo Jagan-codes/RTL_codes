@@ -81,7 +81,9 @@ day79:"sequence detector 1100"(non overlapping sequence detector 1100 using veri
 day80:"sequence detector 0101"(overlapping sequnce detector 0101 using verilog (MOORE))
 day81:"sequence detector 1011"(non overlapping sequence detector (MEALY) using verilog)
 day82:"sequence detector 0010"(overlapping sequence detector (MEALY) using verilog)
-day83:"gray counter"
-day84:"two sequence detector"
-day 85:"digital watch  fsm"
+day83:"gray counter"(it counts in gray code based)
+day84:"two sequence detector"(it detects two sequenctor "101" and "0010")
+day85:"digital watch  fsm"
+day86:"password checker"(the user will give default password and it verfies each time whether the password(4digits) is correct or not)
+day87:"credit card"(it is used to verify valid data and sufficient balance is there in the respective account and give the transaction status)
 

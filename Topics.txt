@@ -90,3 +90,4 @@ day88:"temperature controller"(it is used to control the temperature depending o
 day89:"WASHING MACHINE"(this topic shows the working of washing machine in terms of fsm)
 day90:"ATM FSM"
 day91:"apb-sram interface"
+day92:"i2c arbitration"(in i2c communication 2 master try to ownership of the bus so using wired and operation one master will be neglect this process is called arbitration  )

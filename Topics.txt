@@ -95,3 +95,6 @@ day93:"apb protocol"(it is used to
 data transfer between a master and a peripheral using the APB (Advanced Peripheral Bus))
 day94:"uart serial communication"(this protocol is used to communicate with microncontroller or any other peripherals)
 day95:"car parking management"
+day96:"error detection using hamming decoder and encoder"
+day97:"pulse width modulation "
+day98:"simple spi communication "
